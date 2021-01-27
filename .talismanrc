@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: src/main/java/com/technicalsecurity/vault/MyKeyValues.java
+  checksum: 32dc30cc76c129e9c9f26e9561a2fad168c96096789bdead78d28971449e95c3
+- filename: src/main/java/com/technicalsecurity/vault/VaultKvApplication.java
+  checksum: 24038c77cc0819037b9e98142f6ebcdb31db1c57548d8936c118de6f47c4702d
